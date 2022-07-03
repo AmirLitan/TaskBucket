@@ -34,6 +34,7 @@
 		29C920B6285376D3000B6BC9 /* FirebaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C920B5285376D3000B6BC9 /* FirebaseController.swift */; };
 		29C920B828537887000B6BC9 /* GroupTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C920B728537887000B6BC9 /* GroupTask.swift */; };
 		29C920BA2855C1F6000B6BC9 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C920B92855C1F6000B6BC9 /* TaskListViewController.swift */; };
+		29E5E4032871C5D200CAF741 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 29E5E4022871C5D200CAF741 /* GoogleService-Info.plist */; };
 		D06B465EFCA56DE6E22DE387 /* Pods_TaskBucket_TaskBucketUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F50AC6420321BC7235F0FFE /* Pods_TaskBucket_TaskBucketUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -84,6 +85,7 @@
 		29C920B5285376D3000B6BC9 /* FirebaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseController.swift; sourceTree = "<group>"; };
 		29C920B728537887000B6BC9 /* GroupTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupTask.swift; sourceTree = "<group>"; };
 		29C920B92855C1F6000B6BC9 /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
+		29E5E4022871C5D200CAF741 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3E457D5A8F9042B927E1EC8C /* Pods-TaskBucketTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskBucketTests.debug.xcconfig"; path = "Target Support Files/Pods-TaskBucketTests/Pods-TaskBucketTests.debug.xcconfig"; sourceTree = "<group>"; };
 		45D3DB7229269277144BE89D /* Pods_TaskBucket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaskBucket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AFCCE0A5C9280209C0F4B4D /* Pods-TaskBucket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskBucket.release.xcconfig"; path = "Target Support Files/Pods-TaskBucket/Pods-TaskBucket.release.xcconfig"; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				292D2D81284A42D2004A465B /* Assets.xcassets */,
 				292D2D83284A42D2004A465B /* LaunchScreen.storyboard */,
 				292D2D86284A42D2004A465B /* Info.plist */,
+				29E5E4022871C5D200CAF741 /* GoogleService-Info.plist */,
 				292D2DBA2851FE4D004A465B /* GoogleService-Info.plist */,
 			);
 			path = TaskBucket;
@@ -373,6 +376,7 @@
 				292D2D82284A42D2004A465B /* Assets.xcassets in Resources */,
 				292D2D80284A42CD004A465B /* Main.storyboard in Resources */,
 				2902CEA228716798009F5BED /* TaskTableViewCell.xib in Resources */,
+				29E5E4032871C5D200CAF741 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
